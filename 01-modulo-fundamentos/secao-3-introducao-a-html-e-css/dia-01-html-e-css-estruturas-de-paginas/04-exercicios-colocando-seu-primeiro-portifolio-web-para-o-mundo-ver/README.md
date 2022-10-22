@@ -4,6 +4,6 @@ Agora que você finalizou seu Portfólio Web, chegou o momento em que você vai 
 
 **Atenção ⚠️**: Crie um repositório em seu github e defina seu nome com o seguinte padrão: meuNomeDeUsuario.github.io. Feito isso, basta seguir as instruções do vídeo abaixo:
 
-*Documentação - [GitHub Pages](https://pages.github.com/).
+- Documentação - [GitHub Pages](https://pages.github.com/).
 
 
