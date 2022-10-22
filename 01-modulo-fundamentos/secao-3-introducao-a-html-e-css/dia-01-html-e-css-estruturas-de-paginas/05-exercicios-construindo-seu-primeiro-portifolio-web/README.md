@@ -1,4 +1,4 @@
-Exercícios - Construindo seu primeiro Portfólio Web
+# Exercícios - Construindo seu primeiro Portfólio Web
 
 Antes de começar, tenha em mente que, por estar utilizando o GitHub Pages, a maneira como você versionará seu código do exercício de hoje (e dos próximos dois dias) é um pouco diferente da forma como o realizará no decorrer do curso. Para os exercícios relacionados ao seu Portfólio Web, você não utilizará seu diretório trybe-exercicios.
 
