@@ -19,14 +19,14 @@ Utilizando o terminal, aplique o comando de criação de diretórios que você a
 Para os próximos dois exercícios, crie, de forma manual, na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
 
 ```
-1. Internet
-2. Unix
-3. Bash
-4. HTML
-5. CSS
-6. JavaScript
-7. React
-8. SQL
+Internet
+Unix
+Bash
+HTML
+CSS
+JavaScript
+React
+SQL
 ```
 
 - Mostre na tela as 5 primeiras skills do arquivo skills.txt.
