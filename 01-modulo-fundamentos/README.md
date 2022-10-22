@@ -1,1 +1,13 @@
-Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar sua carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end. Vamos te guiar, etapa a etapa, por toda essa jornada!
+# Módulo 01: Fundamentos do Desenvolvimento Web
+
+Neste módulo aprendi:
+
+- Utilizar o bash;
+- Entender como a internet funciona, seus principais conceitos e terminologias;
+- Utilizar de forma confortável o Git e o Github;
+- Criar documentos HTML estilizados com CSS;
+- Utilizar o JavaScript para adicionar comportamento às páginas web;
+- Utilizar recursos de HTML e CSS Avançado;
+- Trabalhar com JavaScript ES6;
+- Criar códigos assíncronos em JavaScript;
+- Escrever testes unitários.
