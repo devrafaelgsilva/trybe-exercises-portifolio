@@ -7,3 +7,4 @@ Com este exercício, você será capaz de:
 Criar seu Portfólio Web usando todo o aprendizado que você construiu hoje;
 
 Hospedar seu Portfólio Web no GitHub Pages (https://pages.github.com/).
+

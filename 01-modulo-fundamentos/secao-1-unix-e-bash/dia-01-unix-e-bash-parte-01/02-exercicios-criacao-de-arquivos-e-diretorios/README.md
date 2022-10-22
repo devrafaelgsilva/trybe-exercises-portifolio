@@ -1,8 +1,8 @@
 Exercícios - criação de arquivos e diretórios
 
 Dica: Para criação de arquivos vazios, você pode utilizar o comando touch nome-do-arquivo.extensao.
-
 Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado unix_tests e navegue até ele.
+
 Crie um arquivo de texto com o nome trybe.txt.
 Crie uma cópia do arquivo trybe.txt com o nome trybe_backup.txt.
 Renomeie o arquivo trybe.txt.
@@ -16,6 +16,7 @@ Veja qual o path completo do diretório atual e liste todos os arquivos dentro d
 Apague o diretório backup.
 Limpe o terminal.
 Para os próximos dois exercícios, crie, de forma manual, na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
+
 
 Internet
 Unix
