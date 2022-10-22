@@ -6,6 +6,7 @@ Para fixar
 
 index.html
 
+```
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
@@ -16,6 +17,7 @@ index.html
     <h1>Exercícios</h1>
   </body>
 </html>
+```
 
 Crie uma lista das pessoas com quem você já fez amizade na Trybe.
 
