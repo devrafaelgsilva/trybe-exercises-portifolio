@@ -1,4 +1,4 @@
-# Seção: Unix & Bash
+# Seção 01: Unix & Bash
 
 Nesta seção aprendi:
 
