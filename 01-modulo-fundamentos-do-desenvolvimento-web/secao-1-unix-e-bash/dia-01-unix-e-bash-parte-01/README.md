@@ -1,6 +1,6 @@
 # Dia 01: Unix & Bash - Parte 1
 
-### Meu(s) aprendizado(s) nesse dia:
+### Meu(s) aprendizado(s) neste dia:
 
 - Executar comandos no terminal para navegar entre diretórios;
 - Executar comandos no terminal para criar e manipular arquivos e diretórios;
