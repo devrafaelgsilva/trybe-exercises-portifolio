@@ -1,14 +1,7 @@
-# Fundamentos do Desenvolvimento Web
+# Dia 01: Unix & Bash - Parte 1
 
+Neste dia aprendi:
 
-Neste módulo aprendi:
-
-- Utilizar o bash.
-- Entender como a internet funciona, seus principais conceitos e terminologias.
-- Utilizar de forma confortável o Git e o Github.
-- Criar documentos HTML estilizados com CSS.
-- Utilizar o JavaScript para adicionar comportamento às páginas web.
-- Utilizar recursos de HTML e CSS Avançado.
-- Trabalhar com JavaScript ES6.
-- Criar códigos assíncronos em JavaScript.
-- Escrever testes unitários.
+- Executar comandos no terminal para navegar entre diretórios;
+- Executar comandos no terminal para criar e manipular arquivos e diretórios;
+- Executar comandos no terminal para realizar buscas.
