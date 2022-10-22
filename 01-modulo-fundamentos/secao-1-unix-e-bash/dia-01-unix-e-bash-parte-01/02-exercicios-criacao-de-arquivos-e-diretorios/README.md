@@ -2,6 +2,7 @@
 
 Dica: Para criação de arquivos vazios, você pode utilizar o comando touch nome-do-arquivo.extensao.
 
+
 Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado unix_tests e navegue até ele.
 
 Crie um arquivo de texto com o nome trybe.txt.
@@ -31,19 +32,12 @@ Limpe o terminal.
 Para os próximos dois exercícios, crie, de forma manual, na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
 
 Internet
-
 Unix
-
 Bash
-
 HTML
-
 CSS
-
 JavaScript
-
 React
-
 SQL
 
 Mostre na tela as 5 primeiras skills do arqivo skills.txt
