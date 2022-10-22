@@ -16,7 +16,7 @@ Para executar o seu código enquanto o desenvolve, utilize a extensão Live Serv
 
 Dica
 
-Para saber mais sobre as tags HTML, você pode consultar a documentação (https://www.w3schools.com/html/default.asp)
+Para saber mais sobre as tags HTML, você pode consultar a [documentação](https://www.w3schools.com/html/default.asp)
 
 Lembre-se, sempre que você finalizar um dos requisitos, faça um novo commit, assim você mantém o histórico das alterações organizado.
 
@@ -32,4 +32,3 @@ Um link interno para a sua foto;
 Um link externo para algum blog de que você goste, que abra em uma nova aba;
 Partes do seu portfólio destacadas com negrito e/ou itálico;
 Um índice com links internos para as diferentes seções do seu portfólio.
-
