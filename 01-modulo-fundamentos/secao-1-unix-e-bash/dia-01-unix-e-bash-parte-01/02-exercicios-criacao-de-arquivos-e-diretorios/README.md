@@ -1,6 +1,7 @@
 Exercícios - criação de arquivos e diretórios
 
 Dica: Para criação de arquivos vazios, você pode utilizar o comando touch nome-do-arquivo.extensao.
+
 Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado unix_tests e navegue até ele.
 
 Crie um arquivo de texto com o nome trybe.txt.
@@ -15,6 +16,7 @@ Renomeie a pasta backup2 para backup.
 Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
 Apague o diretório backup.
 Limpe o terminal.
+
 Para os próximos dois exercícios, crie, de forma manual, na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
 
 Internet
@@ -26,6 +28,6 @@ JavaScript
 React
 SQL
 
-Mostre na tela as 5 primeiras skills do arquivo skills.txt.
-Mostre na tela as 4 últimas skills do arquivo skills.txt.
-Apague todos os arquivos que terminem em .txt.
+Mostre na tela as 5 primeiras skills do arqivo skills.txt
+Mostre na tela s 4 últimas skills do arquivo.txt
+Apague todos os arquivos que terminem em .txt
