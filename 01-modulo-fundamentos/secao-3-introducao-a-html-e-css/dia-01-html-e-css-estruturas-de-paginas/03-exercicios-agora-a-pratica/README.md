@@ -5,5 +5,5 @@ Muitas das empresas mais modernas do mundo estão sempre em busca de pessoas des
 Com este exercício, você será capaz de:
 
 - Criar seu Portfólio Web usando todo o aprendizado que você construiu hoje;
-- Hospedar seu Portfólio Web no GitHub Pages (https://pages.github.com/).
+- Hospedar seu Portfólio Web no [GitHub Pages](https://pages.github.com/).
 
