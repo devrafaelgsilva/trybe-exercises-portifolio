@@ -35,3 +35,4 @@ Para trabalhar com desenvolvimento web, não é estritamente necessário aprende
 O HTML e o CSS são duas das pedras fundamentais no desenvolvimento web. São duas linguagens muito poderosas, que te permitem criar páginas web do zero, e utilizadas como base para inúmeras outras tecnologias de desenvolvimento web, como vamos aprender ao longo do curso.
 
 Você pode pensar no HTML como se fosse o esqueleto da sua página. É através do HTML que você irá criar a estrutura que vai determinar como a página vai ser exibida, definindo quais tags servirão para títulos, subtítulos, parágrafos, e outros conteúdos ricos como links, imagens, vídeos e etc.
+
