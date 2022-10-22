@@ -31,4 +31,4 @@ SQL
 
 - Mostre na tela as 5 primeiras skills do arquivo `skills.txt`;
 - Mostre na tela as 4 últimas skills do arquivo `skills.txt`;
-- Apague todos os arquivos que terminem em .txt`.
+- Apague todos os arquivos que terminem em `.txt`.
