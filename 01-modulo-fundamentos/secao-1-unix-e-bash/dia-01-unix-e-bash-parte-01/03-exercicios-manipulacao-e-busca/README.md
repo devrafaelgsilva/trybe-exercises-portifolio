@@ -1,13 +1,12 @@
 Exercícios - manipulação & busca
 
-1- Crie um novo diretório chamado unix_tests_search e entre nele. 2- Na pasta unix_tests_search, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl (https://linux.die.net/man/1/curl)
-
+1- Crie um novo diretório chamado unix_tests_search e entre nele. 
+2- Na pasta unix_tests_search, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl (https://linux.die.net/man/1/curl)
+```
 mkdir unix_tests_search
-
-cd unix_tests_search
- 
+cd unix_tests_search 
 curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
-
+```
 Mostre todo o conteúdo do arquivo countries.txt na tela.
 Mostre o conteúdo de countries.txt, página por página, até encontrar a Zambia.
 Mostre novamente o conteúdo de countries.txt página por página, mas agora utilize um comando para buscar por Zambia.
