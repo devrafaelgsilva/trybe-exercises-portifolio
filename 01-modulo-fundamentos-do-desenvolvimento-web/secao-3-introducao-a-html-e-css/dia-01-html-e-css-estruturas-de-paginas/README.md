@@ -1,6 +1,6 @@
 # Dia 01: HTML & CSS - Estruturas de página
 
-Neste dia aprendi a:
+### Neste dia aprendi a:
 
 - Explicar de forma simples como a internet funciona;
 - Entender o modelo Cliente & Servidor e identificar suas partes;
