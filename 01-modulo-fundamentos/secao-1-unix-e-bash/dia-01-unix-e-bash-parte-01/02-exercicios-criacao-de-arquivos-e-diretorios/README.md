@@ -18,8 +18,8 @@ Limpe o terminal.
 
 Para os próximos dois exercícios, crie, de forma manual, na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:
 
-\Internet
-Unix
+- Internet
+- Unix
 Bash
 HTML
 CSS
