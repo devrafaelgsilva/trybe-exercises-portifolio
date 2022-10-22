@@ -1,6 +1,6 @@
 # 01 - Módulo: Fundamentos do Desenvolvimento Web
 
-### Neste módulo aprendi a:
+### O que aprendi neste módulo:
 
 - Utilizar o bash;
 - Entender como a internet funciona, seus principais conceitos e terminologias;
