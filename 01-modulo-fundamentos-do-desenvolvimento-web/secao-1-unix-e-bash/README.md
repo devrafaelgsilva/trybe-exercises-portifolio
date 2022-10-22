@@ -2,4 +2,4 @@
 
 ### Nesta seção aprendi:
 
-- Como o Unix funciona, assim como a forma de interação via linha de comando.
+- Funcionamento do Unix, assim como a forma de interação via linha de comando.
