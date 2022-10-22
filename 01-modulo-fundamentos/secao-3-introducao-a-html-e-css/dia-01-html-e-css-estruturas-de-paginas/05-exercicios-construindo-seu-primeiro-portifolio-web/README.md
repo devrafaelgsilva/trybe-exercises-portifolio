@@ -6,7 +6,7 @@ Você deve seguir as instruções a seguir e fazer o setup para o exercício de 
 
 1. Crie um novo diretório onde você vai desenvolver o seu portfólio.
 
-`**Atenção ⚠️:** _É importante que ele seja criado fora do seu diretório de exercícios, pois a sua manutenção daqui em diante será feita em outro ambiente_.`
+**Atenção ⚠️:** _É importante que ele seja criado fora do seu diretório de exercícios, pois a sua manutenção daqui em diante será feita em outro ambiente_.
 
 2. Inicie um novo repositório local com `Git` no diretório que você criou na etapa 1;
 3. Crie um arquivo `index.html`;
