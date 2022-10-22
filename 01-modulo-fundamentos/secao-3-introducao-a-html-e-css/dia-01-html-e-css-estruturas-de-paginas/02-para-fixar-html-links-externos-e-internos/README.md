@@ -1,10 +1,10 @@
 # HTML - Links externos e internos
 
-## Para fixar
+### Para fixar
 
 `index.html`
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
@@ -28,5 +28,5 @@
 - Crie um link entre a lista e os parágrafos de pessoas;
 - Crie um link para a página do Google. Ela deve ser aberta em outra página.
 
-De olho na dica 👀: Não se esqueça de dar um push no seu repositório para sincronizá-lo com o GitHub.
+**De olho na dica 👀:** _Não se esqueça de dar um `push` no seu repositório para sincronizá-lo com o GitHub._
 
