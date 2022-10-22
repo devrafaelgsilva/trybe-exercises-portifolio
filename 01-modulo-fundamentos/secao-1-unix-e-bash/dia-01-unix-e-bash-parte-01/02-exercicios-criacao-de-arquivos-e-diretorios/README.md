@@ -11,7 +11,7 @@
 - Dentro de `unix_tests`, crie um novo diretório chamado `backup2`.
 - Mova o arquivo `trybe_backup.txt` da pasta backup para a pasta `backup2`.
 - Apague a pasta `backup`.
-- Renomeie a pasta `backup2` para backup.
+- Renomeie a pasta `backup2` para `backup`.
 - Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
 - Apague o diretório `backup`.
 - Limpe o terminal.
