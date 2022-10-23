@@ -9,4 +9,4 @@
 
 ### Meu projeto:
 
-- Playground Functions
+- Playground Functions.
