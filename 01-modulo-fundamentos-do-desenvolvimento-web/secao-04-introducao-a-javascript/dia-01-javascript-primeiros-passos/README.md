@@ -1,6 +1,6 @@
 # Dia 01: Javascript - Primeiros passos
 
-### Meu(s) Aprendizado(s) neste dia:
+### Meu(s) aprendizado(s) neste dia:
 
 - O que é o JavaScript (JS)?;
 - De onde surgiu?;
