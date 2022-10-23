@@ -2,9 +2,9 @@
 
 ### Meu(s) aprendizado(s) neste dia:
 
-- O que é o JavaScript (JS)?;
-- De onde surgiu?;
-- Qual o seu uso?;
+- O que é o JavaScript (JS);
+- De onde surgiu;
+- Qual o seu uso;
 - Variáveis;
 - Constantes;
 - Tipos primitivos;
