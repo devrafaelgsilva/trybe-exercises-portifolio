@@ -11,9 +11,8 @@ const secondAngle = 2;
 const thirdAngle = 3;
 
 if (isNaN(firstAngle) || isNaN(secondAngle) || isNaN(thirdAngle)) {
-           console.log ('error');
+    console.log ('error');
 } else if (Math.sign(firstAngle) === -1 || Math.sign(secondAngle) === -1 || Math.sign(thirdAngle) === -1) {
     console.log ('error');
-} else if (firstAngle + secondAngle + thirdAngle +)kljds
-
-
+} else if (firstAngle + secondAngle + thirdAngle +);
+ 
