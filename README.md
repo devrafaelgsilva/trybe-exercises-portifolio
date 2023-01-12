@@ -6,14 +6,4 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## 01 - Módulo: Fundamentos do Desenvolvimento Web
-
-##### Seção 01: Introdução - Unix & Shell
-
-- [ ] 1.1: _Unix & Shell - Part 01_
-- [ ] 1.2: _Unix & Shell - Part 02_
-
-##### Seção 02: Git & GitHub
-
-- [ ] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
+### [X] 01 - Módulo: Fundamentos do Desenvolvimento Web
